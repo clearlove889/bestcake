@@ -73,3 +73,23 @@ list-style:none;
 #peak ul li:first-child{
     margin-left:0;
 }
+.carousel-control-prev ,.carousel-control-next
+{width:4%;height:15%;background-color:#d0d0d0;border-radius: 0.5rem;top:40%;}
+
+.carousel-indicators li{
+    width:1rem;
+    height:1rem;
+    background-color:#fff;
+    margin-left:0.4rem;
+    margin-right:0.4rem;
+    border-radius:50%;
+}
+.carousel-indicators .active{
+    background-color:#0aa1ed;
+}
+#drop{
+	background:#26cad3;
+}
+
+
+
